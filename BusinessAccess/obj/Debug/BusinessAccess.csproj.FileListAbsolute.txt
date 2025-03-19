@@ -1,0 +1,9 @@
+D:\GitHub Repos\Code-Generator\BusinessAccess\bin\Debug\BusinessAccess.dll
+D:\GitHub Repos\Code-Generator\BusinessAccess\bin\Debug\BusinessAccess.pdb
+D:\GitHub Repos\Code-Generator\BusinessAccess\bin\Debug\DataAccess.dll
+D:\GitHub Repos\Code-Generator\BusinessAccess\bin\Debug\DataAccess.pdb
+D:\GitHub Repos\Code-Generator\BusinessAccess\obj\Debug\BusinessAccess.csproj.AssemblyReference.cache
+D:\GitHub Repos\Code-Generator\BusinessAccess\obj\Debug\BusinessAccess.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\Code-Generator\BusinessAccess\obj\Debug\Business.CE6A0FA7.Up2Date
+D:\GitHub Repos\Code-Generator\BusinessAccess\obj\Debug\BusinessAccess.dll
+D:\GitHub Repos\Code-Generator\BusinessAccess\obj\Debug\BusinessAccess.pdb

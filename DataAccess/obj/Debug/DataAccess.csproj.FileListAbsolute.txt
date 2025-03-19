@@ -1,0 +1,6 @@
+D:\GitHub Repos\Code-Generator\DataAccess\bin\Debug\DataAccess.dll
+D:\GitHub Repos\Code-Generator\DataAccess\bin\Debug\DataAccess.pdb
+D:\GitHub Repos\Code-Generator\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\GitHub Repos\Code-Generator\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\Code-Generator\DataAccess\obj\Debug\DataAccess.dll
+D:\GitHub Repos\Code-Generator\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,15 @@
+D:\GitHub Repos\Code-Generator\Simple_Code_Generator\bin\Debug\Simple_Code_Generator.exe.config
+D:\GitHub Repos\Code-Generator\Simple_Code_Generator\bin\Debug\Simple_Code_Generator.exe
+D:\GitHub Repos\Code-Generator\Simple_Code_Generator\bin\Debug\Simple_Code_Generator.pdb
+D:\GitHub Repos\Code-Generator\Simple_Code_Generator\obj\Debug\Simple_Code_Generator.csproj.AssemblyReference.cache
+D:\GitHub Repos\Code-Generator\Simple_Code_Generator\obj\Debug\Simple_Code_Generator.Properties.Resources.resources
+D:\GitHub Repos\Code-Generator\Simple_Code_Generator\obj\Debug\Simple_Code_Generator.csproj.GenerateResource.cache
+D:\GitHub Repos\Code-Generator\Simple_Code_Generator\obj\Debug\Simple_Code_Generator.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\Code-Generator\Simple_Code_Generator\obj\Debug\Simple_Code_Generator.exe
+D:\GitHub Repos\Code-Generator\Simple_Code_Generator\obj\Debug\Simple_Code_Generator.pdb
+D:\GitHub Repos\Code-Generator\Simple_Code_Generator\bin\Debug\BusinessAccess.dll
+D:\GitHub Repos\Code-Generator\Simple_Code_Generator\bin\Debug\DataAccess.dll
+D:\GitHub Repos\Code-Generator\Simple_Code_Generator\bin\Debug\BusinessAccess.pdb
+D:\GitHub Repos\Code-Generator\Simple_Code_Generator\bin\Debug\DataAccess.pdb
+D:\GitHub Repos\Code-Generator\Simple_Code_Generator\obj\Debug\Simple_C.36F0A506.Up2Date
+D:\GitHub Repos\Code-Generator\Simple_Code_Generator\obj\Debug\Simple_Code_Generator.Form1.resources
